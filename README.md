@@ -1,8 +1,12 @@
 # Pewlett-Hackard-Analysis
 ### Module 7
 
-## Challenge Overview
+## Project Summary
 By filtering, sorting and creating new tables, I created lists of candidates for mentorship using different queries and joins.
+
+## ERD.png
+
+(/Challenge/Pictures/ERD.png)
 
 ## Challenge Summary  
 ### Number of [titles] Retiring  
