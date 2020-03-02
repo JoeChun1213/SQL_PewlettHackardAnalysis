@@ -5,9 +5,8 @@
 By filtering, sorting and creating new tables, I created lists of candidates for mentorship using different queries and joins.
 
 ## ERD.png
-
-(/Challenge/Pictures/ERD.png)
-
+![EmployeeDB](/Challenge/Pictures/ERD.png)
+<br/>
 ## Challenge Summary  
 ### Number of [titles] Retiring  
 <img src="/Challenge/Pictures/number_of_titles.png"
