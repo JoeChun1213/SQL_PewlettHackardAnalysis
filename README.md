@@ -5,41 +5,38 @@
 By filtering, sorting and creating new tables, I created lists of candidates for mentorship using different queries and joins.
 
 ## Challenge Summary  
-
 ### Number of [titles] Retiring  
-### Only the Most Recent Titles
 <img src="/Challenge/Pictures/number_of_titles.png"
      alt="Home Screen"
      style="float: left; margin-right: 10px;"
-     width="400"/> <img src="/CHALLENGE/pics%20of%20output/only_the_most_recent_excel.png"
+     width="310"/> <img src="/Challenge/Pictures/number_of_titles_output.png"
      alt="Home Screen"
      style="float: left; margin-right: 40px;"
-     width="332"/>    
+     width="500"/>  
 <br/>
-We were instructed to create a new table using a RIGHT JOIN that contains Employee number, First and last name, Title, from_date, and Salary. Then, export the data as a CSV. To create the new list of potential mentors, we created a query that returns a list of current employees eligible for retirement, as well as their most recent titles.  
-<br/>
+Created the table which contains employee #, name, title, from date, and salary using right join command. Exported the table into a csv file. In addtion, created a query which would return a list of current employees could be retired and their most recent titles to find out new potential mentors. 
 <br/>
 <br/>
 ### Only the Most Recent Titles
-<img src="/CHALLENGE/pics%20of%20code/only_the_most_recent_titles.png"
+<img src="/Challenge/Pictures/most_recent_titles_only.png"
      alt="Home Screen"
      style="float: left; margin-right: 10px;"
-     width="400"/> <img src="/CHALLENGE/pics%20of%20output/only_the_most_recent_excel.png"
+     width="400"/> <img src="/Challenge/Pictures/most_recent_titles_only_output.png"
      alt="Home Screen"
      style="float: left; margin-right: 40px;"
      width="332"/>    
 <br/>
-Here, we were instructed to list the frequency count of emplyee titles in decending order. To get the final list with the recent titles, we partition the data so that each employee is only included on the list once. In addition, we performed a query that shows how many current employees of each title are presently eligible for retirement.    
+Listed the count of employee titles in descending order. Made partitions in the data to make sure there will be no duplicates and to reach the final list with the most recent titles. Using query that would return how many current employees of each title are eligible for retirement.  
 <br/>     
 <br/>
-<br/> 
 ### Who’s Ready for a Mentor?
-<img src="/CHALLENGE/pics%20of%20code/whos_ready_for_a_mentor.png"
+<img src="/Challenge/Pictures/ready_for_mentor.png"
      alt="Home Screen"
      style="float: left; margin-right: 10px;"
-     width="390"/> <img src="/CHALLENGE/pics%20of%20output/whos_ready_for_a_mentor_excel.png"
+     width="390"/> <img src="/Challenge/Pictures/ready_for_mentor_output.png"
      alt="Home Screen"
      style="float: left; margin-right: 40px;"
      width="455"/>
 <br/>
-To find who's ready for a mentor, we created a new table. The birth date was set to be between January 1, 1965 and December 31, 1965. Also, we made sure only current employees were included in this list. The final query returns the potential mentor’s employee number, first and last name, their title, birth date and employment dates.
+<br/>
+Set up birth date from 01/01/1965 to 12/31/1965 and found employees who would be ready for a mentorship;created a new table. Only current employees were included. Using the final query to reach the data contains potential mentor's employee #, name, title, birth date, and employement date. 
