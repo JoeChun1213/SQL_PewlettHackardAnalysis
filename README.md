@@ -7,10 +7,10 @@ By filtering, sorting and creating new tables, I created lists of candidates for
 ## Challenge Summary  
 
 ### Number of [titles] Retiring  
-<img src="/Challenge/Pictures/Number%of%[titles]%Retiring.png"
+<img src="/Challenge/Pictures/Number_of_[titles]_Retiring.png"
      alt="Home Screen"
      style="float: left; margin-right: 10px;"
-     width="310"/> <img src="/Challenge/Pictures/Number%of%[titles]%Retiring%Output.png"
+     width="310"/> <img src="/Challenge/Pictures/Number_of_[titles]_Retiring_Output.png"
      alt="Home Screen"
      style="float: left; margin-right: 40px;"
      width="500"/>  
