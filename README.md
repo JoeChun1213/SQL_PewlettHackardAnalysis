@@ -5,7 +5,10 @@
 By filtering, sorting and creating new tables, I created lists of candidates for mentorship using different queries and joins.
 
 ## ERD.png
-![EmployeeDB](/Challenge/Pictures/ERD.png)
+<img src="/Challenge/Pictures/ERD.png"
+     alt="Home Screen"
+     style="float: left; margin-right: 10px;"
+     width="310"/>
 <br/>
 ## Challenge Summary  
 ### Number of [titles] Retiring  
