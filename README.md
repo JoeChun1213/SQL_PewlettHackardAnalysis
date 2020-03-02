@@ -37,6 +37,7 @@ Listed the count of employee titles in descending order. Made partitions in the 
      alt="Home Screen"
      style="float: left; margin-right: 40px;"
      width="455"/>
-
-
+<br/>
+<br/>
+<br/>
 Set up birth date from 01/01/1965 to 12/31/1965 and found employees who would be ready for a mentorship;created a new table. Only current employees were included. Using the final query to reach the data contains potential mentor's employee #, name, title, birth date, and employement date. 
