@@ -7,11 +7,14 @@ By filtering, sorting and creating new tables, I created lists of candidates for
 ## Challenge Summary  
 
 ### Number of [titles] Retiring  
-<img src="/Challenge/Pictures/Number_of_[titles]_Retiring.png"
+### Only the Most Recent Titles
+<img src="/Challenge/Pictures/number_of_titles.png"
+     alt="Home Screen"
      style="float: left; margin-right: 10px;"
-     width="310"/> <img src="/Challenge/Pictures/Number_of_[titles]_Retiring_Output.png"
+     width="400"/> <img src="/CHALLENGE/pics%20of%20output/only_the_most_recent_excel.png"
+     alt="Home Screen"
      style="float: left; margin-right: 40px;"
-     width="500"/>  
+     width="332"/>    
 <br/>
 We were instructed to create a new table using a RIGHT JOIN that contains Employee number, First and last name, Title, from_date, and Salary. Then, export the data as a CSV. To create the new list of potential mentors, we created a query that returns a list of current employees eligible for retirement, as well as their most recent titles.  
 <br/>
