@@ -1,6 +1,3 @@
-# Pewlett-Hackard-Analysis
-### Module 7
-
 ## Project Summary
 By filtering, sorting and creating new tables, I created lists of candidates for mentorship using different queries and joins.
 
