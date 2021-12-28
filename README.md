@@ -30,7 +30,8 @@ Created the table which contains employee #, name, title, from date, and salary 
      width="332"/>    
 
 Listed the count of employee titles in descending order. Made partitions in the data to make sure there will be no duplicates and to reach the final list with the most recent titles. Using query that would return how many current employees of each title are eligible for retirement.  
-   
+  
+  
 
 ### Who’s Ready for a Mentor?
 <img src="/Challenge/Pictures/ready_for_mentor.png"
